@@ -10,13 +10,14 @@ background-size:cover;
 background-repeat:no-repeat;
 border:none;
 cursor:pointer;
-height: 742px;
+height: 700px;
 width: 375px;
 border-radius: 0px;
 display:flex;
 flex-direction:column;
 justify-content: start;
 align-items:center;
+margin:16px 12px 12px 12px;
 
 `;
 

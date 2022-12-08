@@ -7,13 +7,13 @@ exports[`Form should match snapshot successfully 1`] = `
       class="form__StyledForm-qsc0mr-0 eqcWSg"
     >
       <input
-        class="input__StyledInput-sc-1rotb0l-0 bNISDx"
+        class="input__StyledInput-sc-1rotb0l-0 HWiIs"
         placeholder="användernamn"
         required=""
         type="text"
       />
       <input
-        class="input__StyledInput-sc-1rotb0l-0 bNISDx"
+        class="input__StyledInput-sc-1rotb0l-0 HWiIs"
         placeholder="lösenord"
         required=""
         type="password"

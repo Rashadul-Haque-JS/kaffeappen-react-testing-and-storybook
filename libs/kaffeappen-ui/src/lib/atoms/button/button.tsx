@@ -4,6 +4,7 @@ type ButtonTypes = {
   children: React.ReactNode;
   variant: 'primary' | 'secondary';
   marginTop:number;
+  onClick?:(event: React.MouseEvent<HTMLElement>) =>void
 };
 
 const StyledButton = styled.button<ButtonTypes>`
@@ -21,9 +22,9 @@ margin-top:${(props)=> props.marginTop + 'px'};
 
 `;
 
-const ButtonComponent = ({ children, variant,marginTop }: ButtonTypes) => {
+const ButtonComponent = ({ children, variant,marginTop , onClick }: ButtonTypes) => {
   return (
-    <StyledButton variant={variant} marginTop={marginTop}>
+    <StyledButton variant={variant} marginTop={marginTop} onClick={onClick}>
       {children}
     </StyledButton>
   );

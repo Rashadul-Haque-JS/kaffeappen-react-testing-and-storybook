@@ -4,7 +4,7 @@ exports[`Input field should match snapshot successfully 1`] = `
 <body>
   <div>
     <input
-      class="input__StyledInput-sc-1rotb0l-0 bNISDx"
+      class="input__StyledInput-sc-1rotb0l-0 HWiIs"
       placeholder="lösenord"
       required=""
       type="password"

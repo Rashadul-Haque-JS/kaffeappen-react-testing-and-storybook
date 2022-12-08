@@ -13,7 +13,7 @@ height:40px;
 text-align:center;
 border:1px solid #000;
 border-radius:3px;
-padding:2px 8px;
+padding:0 8px;
 text-transform:uppercase;
 margin-top:70px;
 

@@ -18,7 +18,7 @@ text-align:center;
 border:.5px solid #808080;
 border-radius:3px;
 display: block;
-margin:4px 0px;
+margin:5px 0px;
 `;
 
 const InputComponent = ({ placeholder, type, onChange}: InputField) => {
