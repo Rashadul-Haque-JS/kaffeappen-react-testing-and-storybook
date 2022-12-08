@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button should match snapshot successfully 1`] = `
+<body>
+  <div>
+    <h1
+      class="headline__StyledHeadline-mv29hz-0 hyaiEn"
+    >
+      kaffeappen
+    </h1>
+  </div>
+</body>
+`;

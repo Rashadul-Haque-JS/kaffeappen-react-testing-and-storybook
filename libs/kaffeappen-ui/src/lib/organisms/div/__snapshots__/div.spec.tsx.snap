@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Div should match snapshot successfully 1`] = `
+<body>
+  <div>
+    <div
+      class="div__StyledDiv-sc-5071l8-0 gPOryH"
+    >
+      <h1
+        class="headline__StyledHeadline-mv29hz-0 hyaiEn"
+      >
+        Kaffeappen
+      </h1>
+      <form
+        class="form__StyledForm-qsc0mr-0 eqcWSg"
+      >
+        <input
+          class="input__StyledInput-sc-1rotb0l-0 bNISDx"
+          placeholder="användernamn"
+          required=""
+          type="text"
+        />
+        <input
+          class="input__StyledInput-sc-1rotb0l-0 bNISDx"
+          placeholder="lösenord"
+          required=""
+          type="password"
+        />
+        <button
+          class="button__StyledButton-sc-1l6wl6y-0 jakITz"
+        >
+          Logga In
+        </button>
+      </form>
+      <button
+        class="button__StyledButton-sc-1l6wl6y-0 gBIovO"
+      >
+        Registrera
+      </button>
+    </div>
+  </div>
+</body>
+`;

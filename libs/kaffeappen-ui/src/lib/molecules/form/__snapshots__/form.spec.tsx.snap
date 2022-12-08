@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Form should match snapshot successfully 1`] = `
+<body>
+  <div>
+    <form
+      class="form__StyledForm-qsc0mr-0 eqcWSg"
+    >
+      <input
+        class="input__StyledInput-sc-1rotb0l-0 bNISDx"
+        placeholder="användernamn"
+        required=""
+        type="text"
+      />
+      <input
+        class="input__StyledInput-sc-1rotb0l-0 bNISDx"
+        placeholder="lösenord"
+        required=""
+        type="password"
+      />
+      <button
+        class="button__StyledButton-sc-1l6wl6y-0 jakkFT"
+      >
+        Logga In
+      </button>
+    </form>
+  </div>
+</body>
+`;

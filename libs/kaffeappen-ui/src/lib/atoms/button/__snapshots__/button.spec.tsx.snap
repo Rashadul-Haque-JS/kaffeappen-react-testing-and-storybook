@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button should match snapshot successfully 1`] = `
+<body>
+  <div>
+    <button
+      class="button__StyledButton-sc-1l6wl6y-0 jakkFT"
+    >
+      'Logga in'
+    </button>
+  </div>
+</body>
+`;
+
+exports[`Button should match snapshot successfully 2`] = `
+<body>
+  <div>
+    <button
+      class="button__StyledButton-sc-1l6wl6y-0 gBIovO"
+    >
+      'Registrera'
+    </button>
+  </div>
+</body>
+`;
